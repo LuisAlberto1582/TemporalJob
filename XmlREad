@@ -1,0 +1,39 @@
+//Correcto
+if (psaRegistro[i].ToLower().Trim().StartsWith("folio|"))
+{
+    factura.Folio = psaRegistro[i].Split('|')[1].Trim();
+}
+//No considerar
+else if (psaRegistro[i].ToLower().Trim().StartsWith("descuento|"))
+{
+    factura.Descuento = Convert.ToDouble(psaRegistro[i].Split('|')[1].Trim());
+}
+//Correcto
+else if (psaRegistro[i].ToLower().Trim().StartsWith("subtotal|"))
+{
+    factura.SubTotal = Convert.ToDouble(psaRegistro[i].Split('|')[1].Trim());
+}
+//TotalImpuestosTrasladados
+else if (psaRegistro[i].ToLower().Trim().Contains("comprobante_impuestos_traslados_importe|") && claveCarrier.ToLower() != "telum")
+{
+    factura.IVA = Convert.ToDouble(psaRegistro[i].Split('|')[1].Trim());
+}
+//No se encuentra
+else if (psaRegistro[i].ToLower().Trim().Contains("Comprobante_Addenda_FacturaInterfactura_SubtotalImpuesto|") && claveCarrier.ToLower() == "telum")
+{
+    factura.IVA = Convert.ToDouble(psaRegistro[i].Split('|')[1].Trim());
+}
+else if (psaRegistro[i].ToLower().Trim().StartsWith("total|"))
+{
+    factura.TotalConIVA = Convert.ToDouble(psaRegistro[i].Split('|')[1].Trim());
+}
+//No se encuentra
+else if (psaRegistro[i].ToLower().Trim().Contains("comprobante_nombre|"))
+{
+    factura.RazonSocial = psaRegistro[i].Split('|')[1].Trim();
+}
+//Hay varios
+else if (psaRegistro[i].ToLower().Trim().StartsWith("fecha|"))
+{
+    factura.FechaCorte = Convert.ToDateTime(psaRegistro[i].Split('|')[1].Trim());
+}

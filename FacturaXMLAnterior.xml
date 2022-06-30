@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" Version="3.3" Serie="TP" Folio="B1-202759655P1-3" Fecha="2022-06-04T03:06:00" Sello="h9SpXAvKwWCsHA2LiAt9ljNJmar9BGU9MkmYDNWCqPlSrZE6jn3B9YGVjPOiUViJvU8W317VE25eU4YTfQV/5Pr42usyE3KjuATWGTey5wSdLvaabcYsnJKIr44OjZw86MjowAb6sklSRjvYznlva6+MnGZ/ctHmi0zHH06Oe+EpKw1S26DsyoPxLMVc54+VBIGdrNw0jFtNJ2EDAhBiJPA3VUWwKheoUbInEv2gHxGxiTji5KC4xZZ2gbq8aHmS5cCR8ywR7pi63aFx6HAAq3v6ACzjh6Tvrp3zNLutc5oNbnagutBIbgZYTxAGU/94YyjAwExNNK+FXWUzRRH2cA==" FormaPago="99" NoCertificado="00001000000510135420" Certificado="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" SubTotal="3031.65" Moneda="MXN" Total="3516.71" TipoDeComprobante="I" MetodoPago="PPD" LugarExpedicion="04519">
+  <cfdi:Emisor Rfc="TPT890516JP5" Nombre="TOTAL PLAY TELECOMUNICACIONES S.A.P.I. DE C.V." RegimenFiscal="601"/>
+  <cfdi:Receptor Rfc="BAT030325CE9" Nombre="BRITISH AMERICAN TOBACCO MEXICO COMERCIAL S.A. D." UsoCFDI="G03"/>
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="81161700" NoIdentificacion="SERVICIO_ENLACE" Cantidad="1" ClaveUnidad="E48" Descripcion="Servicio de Telecomunicaciones" ValorUnitario="3031.65" Importe="3031.65">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3031.65" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="485.06"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="485.06">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="485.06"/>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital Version="1.1" UUID="3885273F-FE37-4E0C-AD13-A12B6602669D" FechaTimbrado="2022-06-04T05:11:13" RfcProvCertif="INT020124V62" SelloCFD="h9SpXAvKwWCsHA2LiAt9ljNJmar9BGU9MkmYDNWCqPlSrZE6jn3B9YGVjPOiUViJvU8W317VE25eU4YTfQV/5Pr42usyE3KjuATWGTey5wSdLvaabcYsnJKIr44OjZw86MjowAb6sklSRjvYznlva6+MnGZ/ctHmi0zHH06Oe+EpKw1S26DsyoPxLMVc54+VBIGdrNw0jFtNJ2EDAhBiJPA3VUWwKheoUbInEv2gHxGxiTji5KC4xZZ2gbq8aHmS5cCR8ywR7pi63aFx6HAAq3v6ACzjh6Tvrp3zNLutc5oNbnagutBIbgZYTxAGU/94YyjAwExNNK+FXWUzRRH2cA==" NoCertificadoSAT="00001000000505211329" SelloSAT="BtxD8nFwn0YhRd29p7dd9pXCWXpN6U0YZXelPKGKsRdJnfQHWgTNqk/lFReAyFwuhClhyYk2yhQ97Af4s8Ut2S+CkE8fQLjTpb25YGaXF0oW746YD6r1tQuDc9O9TPFxSycCp56RC4CKboUEc3LLN/0pi3nS3B3uSSJ72x6QWDkVOmuqe9tbtRT2gCBKcTeU38fquuY97j7Lg+mwVLWcbQAa5yZRBFYJmsjKhbM0NuKMPlkeZsh/9NPUtf4MiNlJvHjEIIJPuY93T4VIxCoF2AUwONjQba4djSSkFOnYtvqN4r8sBxcCqcM5X7nbOKo1lqZEXDnxzBZl5X3nPM7qtA==" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital"/>
+  </cfdi:Complemento>
+  <cfdi:Addenda xmlns:tp="https://www.totalplay.com/Schemas/Documentos" xsi:schemaLocation="https://www.totalplay.com/Schemas/Documentos totalplay.xsd">
+    <tp:FacturaInterfactura TipoCliente="2" TipoDocumento="1" TipoDocumentoDesc="FacturaEnlace" TipoServicio="3">
+      <tp:Emisor RI="0109990" RegimenFiscalDesc="General de Ley Personas Morales"/>
+      <tp:Receptor Apellido="SANCHEZ MARTINEZ" Direccion="AVENIDA FRANCISCO I. MADERO PONIENTE 2750 INT. ." Direccion2="Col. Monterrey Centro, Monterrey" Direccion3="Monterrey, Nuevo Leon" Direccion4="MX 64000" Nombre="MARIA GRACIELA" NombreFiscal="BRITISH AMERICAN TOBACCO MEXICO COMERCIAL S.A. D."/>
+      <tp:Encabezado FolioReferencia="B1-202759655P1" FolioSerie="B1-202759655P1-3" IVA="485.06" IVAPCT="0.160000" MostrarProntoPago="82" NumTelefono="8125178352" Paperless="0" Plan="Profesional" SerieFolio="TPB1-202759655P1-3" TemplateId="TP_FacturaEnlace.wfd" TemplateVersion="03042022" TipoCliente="2" TipoDocumento="1" TipoDocumentoDesc="FacturaEnlace" TipoServicio="3" TotalPagar="3516" TotalProntoPago="3434" cadenaOriginal="||3.3|TP|B1-202759655P1-3|2022-06-04T03:06:00|99|00001000000510135420|3031.65|MXN|3516.71|I|PPD|04519|TPT890516JP5|TOTAL PLAY TELECOMUNICACIONES S.A.P.I. DE C.V.|601|BAT030325CE9|BRITISH AMERICAN TOBACCO MEXICO COMERCIAL S.A. D.|G03|81161700|SERVICIO_ENLACE|1|E48|Servicio de Telecomunicaciones|3031.65|3031.65|3031.65|002|Tasa|0.160000|485.06|002|Tasa|0.160000|485.06|485.06||" cadenaOriginalTimbre="||1.1|3885273F-FE37-4E0C-AD13-A12B6602669D|2022-06-04T05:11:13|INT020124V62|h9SpXAvKwWCsHA2LiAt9ljNJmar9BGU9MkmYDNWCqPlSrZE6jn3B9YGVjPOiUViJvU8W317VE25eU4YTfQV/5Pr42usyE3KjuATWGTey5wSdLvaabcYsnJKIr44OjZw86MjowAb6sklSRjvYznlva6+MnGZ/ctHmi0zHH06Oe+EpKw1S26DsyoPxLMVc54+VBIGdrNw0jFtNJ2EDAhBiJPA3VUWwKheoUbInEv2gHxGxiTji5KC4xZZ2gbq8aHmS5cCR8ywR7pi63aFx6HAAq3v6ACzjh6Tvrp3zNLutc5oNbnagutBIbgZYTxAGU/94YyjAwExNNK+FXWUzRRH2cA==|00001000000505211329||" qrCode="https://verificacfdi.facturaelectronica.sat.gob.mx/default.aspx?id=3885273F-FE37-4E0C-AD13-A12B6602669D&amp;re=TPT890516JP5&amp;rr=BAT030325CE9&amp;tt=3516.71&amp;fe=RRH2cA==" FolioManual="B1-202759655P1-3" Folio="B1-202759655P1-3" FechaVisualizacion="06/2022" FechaProntoPago="2022-06-14" FechaPago="2022-06-22" Cuenta="0200483639" Correo="yuliana_elizalde@bat.com" Code="AEAEAE" Ciclo="4" Segmento=".5.4.2">
+        <tp:Cuerpo AjustePorRedondeo="-0.77" CargosCreditos="281" ConsumosAdicionalesTel="0" ConsumosExtras="0" DescuentoProntoPago="-82.12" DescuentosPromociones="-68.96" OtrosCargos="3516.71" OtrosCreditos="0.00" PeriodoFin="03-06-2022" PeriodoInicio="04-05-2022" SaldoALaFecha="0.05" SaldoAnterior="7114.173966" ServiciosExtras="1162.93" SuPagoGracias="-7032" Subtotal="3031.65" UnidadDeMedidaFiscal="E48" TotalPagar="485.06" ConsumosExtrasIVA="0" ConsumosExtrasConIVA="0.00" ServiciosExtrasIVA="186.07" ServiciosExtrasConIVA="1349.00" OtrosCreditosIVA="0.00" OtrosCreditosConIVA="0.00" CargosCreditosIVA="44.96" CargosCreditosConIVA="325.96" DescuentosPromocionesIVA="-11.03" DescuentosPromocionesConIVA="-79.99" Ajustes="0">
+          <tp:Rentas>
+            <tp:Renta Descripcion="Profesional" Importe="1656.68" ImporteIVA="265.07" ImporteConIVA="1921.75"/>
+          </tp:Rentas>
+          <tp:Historicos>
+            <tp:Historico Mes="Ene 2022" Monto="3596.71" Renglon="5"/>
+            <tp:Historico Mes="Feb 2022" Monto="3596.71" Renglon="4"/>
+            <tp:Historico Mes="Mar 2022" Monto="3596.71" Renglon="3"/>
+            <tp:Historico Mes="Abr 2022" Monto="3596.71" Renglon="2"/>
+            <tp:Historico Mes="May 2022" Monto="3516.71" Renglon="1"/>
+            <tp:Historico Mes="Jun 2022" Monto="3516.71" Renglon="0"/>
+          </tp:Historicos>
+          <tp:Pagos>
+            <tp:Pago Desc="Reverso" Fecha="17-May-22" Monto="7032" Renglon="1"/>
+            <tp:Pago Desc="Efectivo" Fecha="11-May-22" Monto="-7032" Renglon="2"/>
+            <tp:Pago Desc="Transferencia Bancaria" Fecha="11-May-22" Monto="-7032" Renglon="3"/>
+          </tp:Pagos>
+          <tp:ResumenOCCs ImporteTotal="281">
+            <tp:OCCs Descripcion="Bonificaciones a la Cuenta" Importe="0"/>
+            <tp:OCCs Descripcion="Cargos a la Cuenta" Importe="281">
+              <tp:OCC Descripcion="Cargo Adecuaciones con Red Neutral" Importe="281"/>
+            </tp:OCCs>
+            <tp:OCCs Descripcion="Ajustes a la Cuenta" Importe="0"/>
+          </tp:ResumenOCCs>
+          <tp:ReferenciasBancarias>
+            <tp:Referencia Banco="SPEI a la CLABE 127180802004836394 de Banco Azteca" Renglon="0"/>
+            <tp:Referencia Banco="BANCO AZTECA                             Ref:      08000002004836390" Renglon="1"/>
+            <tp:Referencia Banco="BANCOMER         Conv: 1281615 Ref:      08000002004836390" Renglon="2"/>
+            <tp:Referencia Banco="SCOTIABANK        No. Serv. 4010 Ref:      08000002004836390" Renglon="3"/>
+            <tp:Referencia Banco="SANTANDER              Conv: 5617 Ref:      08000002004836390" Renglon="4"/>
+            <tp:Referencia Banco="BANORTE              Emisora: 2742 Ref:      08000002004836390" Renglon="5"/>
+            <tp:Referencia Banco="BANAMEX                             B: 8192010800000200483639064" Renglon="6"/>
+          </tp:ReferenciasBancarias>
+          <tp:DescuentosPromociones Descripcion="Descuentos y Promociones" Importe="-68.96">
+            <tp:DescuentoPromocion Descripcion="descnueva (2/99)" Importe="-68.96"/>
+            <tp:DescuentoPromocion Descripcion="PromocionSuite Protección Virtual 2020 Renta SI ieps (36 Me (7/36)" Importe="0.00"/>
+          </tp:DescuentosPromociones>
+          <tp:DetallesProntoPago>
+            <tp:DetalleProntoPago Cuenta="0200483639" Descripcion="Profesional" Importe="-82"/>
+          </tp:DetallesProntoPago>
+          <tp:Cuentas>
+            <tp:Cuenta NumeroCuenta="0200483639">
+              <tp:Lineas>
+                <tp:Linea Numero="8125178352" Total="0">
+                  <tp:Rentas Importe="38.15">
+                    <tp:Renta Descripcion="Profesional" Importe="38.15"/>
+                  </tp:Rentas>
+                  <tp:RentasAdicionales Importe="0"/>
+                  <tp:ConsumosServiciosExtras/>
+                </tp:Linea>
+                <tp:Linea Numero="8125178353" Total="0">
+                  <tp:Rentas Importe="0.00">
+                    <tp:Renta Descripcion="Profesional" Importe="0.00"/>
+                  </tp:Rentas>
+                  <tp:RentasAdicionales Importe="0"/>
+                  <tp:ConsumosServiciosExtras/>
+                </tp:Linea>
+                <tp:Linea Numero="48575443F4849974" Total="1162.93">
+                  <tp:Rentas Importe="1618.53">
+                    <tp:Renta Descripcion="Profesional" Importe="1618.53"/>
+                  </tp:Rentas>
+                  <tp:RentasAdicionales Importe="1162.93">
+                    <tp:Renta Descripcion="IP Fija." Importe="731.89"/>
+                    <tp:Renta Descripcion="CRECELO 500 MEGAS SIMÉTRICO - Mensual" Importe="431.03"/>
+                  </tp:RentasAdicionales>
+                  <tp:ConsumosServiciosExtras/>
+                </tp:Linea>
+              </tp:Lineas>
+            </tp:Cuenta>
+          </tp:Cuentas>
+          <tp:Lineas>
+            <tp:Linea Numero="8125178352" Total="0">
+              <tp:Rentas Importe="38.15">
+                <tp:Renta Descripcion="Profesional" Importe="38.15"/>
+              </tp:Rentas>
+              <tp:RentasAdicionales Importe="0"/>
+              <tp:ConsumosServiciosExtras/>
+            </tp:Linea>
+            <tp:Linea Numero="8125178353" Total="0">
+              <tp:Rentas Importe="0.00">
+                <tp:Renta Descripcion="Profesional" Importe="0.00"/>
+              </tp:Rentas>
+              <tp:RentasAdicionales Importe="0"/>
+              <tp:ConsumosServiciosExtras/>
+            </tp:Linea>
+            <tp:Linea Numero="48575443F4849974" Total="1162.93">
+              <tp:Rentas Importe="1618.53">
+                <tp:Renta Descripcion="Profesional" Importe="1618.53"/>
+              </tp:Rentas>
+              <tp:RentasAdicionales Importe="1162.93">
+                <tp:Renta Descripcion="IP Fija." Importe="731.89"/>
+                <tp:Renta Descripcion="CRECELO 500 MEGAS SIMÉTRICO - Mensual" Importe="431.03"/>
+              </tp:RentasAdicionales>
+              <tp:ConsumosServiciosExtras/>
+            </tp:Linea>
+          </tp:Lineas>
+          <tp:Emails>
+            <tp:Email Email="yuliana_elizalde@bat.com" EmailOK="true" URL="D8wIjNNRTiyXhldzcKu2MURk22Zdutju2wghquR8DhGioGAit6isgacJacnNuLknKDfOhKAnbPF96RUdGYWKCFdFQEiLreBYF6DQ1Qe4WSa8fDeB9pQiV8ewDbBaFDcgUa%2B3lh5vPNDh0ujlBsjGgJPZUeE37%2BzMhFidTkuPBU0%3D"/>
+          </tp:Emails>
+        </tp:Cuerpo>
+      </tp:Encabezado>
+    </tp:FacturaInterfactura>
+  </cfdi:Addenda>
+</cfdi:Comprobante>
